@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub
 
-![Banner](https://media.licdn.com/dms/image/v2/C5616AQEyuWLvlG7kbQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1635323645564?e=1732752000&v=beta&t=M6N2rODgkE6bG1zl6d2yqafAhHNdBVJl5ePm1qFDvcc)
+![Banner](https://www.ecomdesign.be/1635323645564.jpg)
 
 Je suis **Steve Vandenbossche**, un développeur passionné par la création d'expériences web innovantes, robustes et interactives. Explorez mes projets ci-dessous et les technologies que j’utilise !
 
