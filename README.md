@@ -44,26 +44,37 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 </p>
 
 ---
+## 🧠 Cybersecurity | TryHackMe
 
-## 🧠 Cybersecurity | ![TryHackMe Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TryHackMe_Logo.svg/512px-TryHackMe_Logo.svg.png?20221031101529) TryHackMe
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png)](https://tryhackme.com/p/ecomdesign.be)
+<p align="center">
+  <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="TryHackMe Badge">
+  </a>
+</p>
 
 - 🔐 **Profil** : [tryhackme.com/p/ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)
 - 🧭 Entraînement quotidien en cybersécurité offensive/défensive
-- 🧪 Apprentissage via labs pratiques : reconnaissance, exploitation, forensic, réseau, etc.
-- 🎯 Objectif : compléter les parcours *Pre Security*, *Complete Beginner*, et *Cyber Defence*
+- 🧪 Labs pratiques : reconnaissance, exploitation, forensic, réseau, etc.
+
+| 📜 Certification | 🗓️ Date | 📘 Description |
+|------------------|---------|----------------|
+| **Web Application Pentesting** | 3 July 2025 | Common web vulns, auth, client/server exploits, remediation |
+| **Jr Penetration Tester** | 3 June 2025 | Pentesting methods, enumeration, tools, reporting |
+| **SOC Level 1 Analyst** | 4 May 2025 | Threat monitoring, SIEM, forensics, incident response |
+| **Cyber Security 101** | 31 March 2025 | Linux, Windows, AD, cryptography, defense & offense |
+| **Pre Security** | 16 February 2025 | Networking basics, common web attacks, intro to cyber sec |
 
 
 
-## 🔐 Cybersecurity Projects
+## 🔐 Cybersecurity | Kamkar 4 @ BeCode 2025
 
 - [BeCode](https://github.com/ecomdesignbe/BXL-Kamkar4-2025) – Dépôt principal de la formation
 - [port-scanner](https://github.com/ecomdesignbe/port-scanner) – Scanner de ports en Python
 - [monitoring-101](https://github.com/ecomdesignbe/monitoring-101) – Toolkit de surveillance Linux (Bash)
 - [secure-network-design](https://github.com/ecomdesignbe/secure-network-design) – Design de réseau sécurisé
 
-### 🚀 Développement Web
+### 🚀 Web development | Hopper 5 @ BeCode 2024
+
 - [BeCode](https://github.com/ecomdesignbe/BXL-Hopper-5) – Dépôt principal de la formation
 - [render-react-appwrite-recipe-full-stack](https://github.com/ecomdesignbe/render-react-appwrite-recipe-full-stack) – Full-stack Appwrite + React
 - [render-react-tailwind-multi-step-form](https://github.com/ecomdesignbe/render-react-tailwind-multi-step-form) – Formulaire multi-étapes React + Tailwind
@@ -79,7 +90,6 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 - [beMovies](https://github.com/ecomdesignbe/beMovies) - Application cinéma
 
 ---
-
 
 ## 📈 Statistiques GitHub
 
