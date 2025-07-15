@@ -73,7 +73,7 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 - [monitoring-101](https://github.com/ecomdesignbe/monitoring-101) – Toolkit de surveillance Linux (Bash)
 - [secure-network-design](https://github.com/ecomdesignbe/secure-network-design) – Design de réseau sécurisé
 
-### 🚀 Web development | Hopper 5 @ BeCode 2024
+## 🚀 Web development | Hopper 5 @ BeCode 2024
 
 - [BeCode](https://github.com/ecomdesignbe/BXL-Hopper-5) – Dépôt principal de la formation
 - [render-react-appwrite-recipe-full-stack](https://github.com/ecomdesignbe/render-react-appwrite-recipe-full-stack) – Full-stack Appwrite + React
