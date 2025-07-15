@@ -45,6 +45,17 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 
 ---
 
+## 🧠 Cybersecurity | ![TryHackMe Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/TryHackMe_Logo.svg/512px-TryHackMe_Logo.svg.png?20221031101529) TryHackMe
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png)](https://tryhackme.com/p/ecomdesign.be)
+
+- 🔐 **Profil** : [tryhackme.com/p/ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)
+- 🧭 Entraînement quotidien en cybersécurité offensive/défensive
+- 🧪 Apprentissage via labs pratiques : reconnaissance, exploitation, forensic, réseau, etc.
+- 🎯 Objectif : compléter les parcours *Pre Security*, *Complete Beginner*, et *Cyber Defence*
+
+
+
 ## 🔐 Cybersecurity Projects
 
 - [BeCode](https://github.com/ecomdesignbe/BXL-Kamkar4-2025) – Dépôt principal de la formation
@@ -73,7 +84,6 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecomdesignbe&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecomdesignbe&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
 </p>
 
@@ -86,10 +96,6 @@ Vous souhaitez collaborer ? Discutons !
 - **Website**: [ecomdesign.be](https://www.ecomdesign.be)  
 - **LinkedIn**: [steve-vandenbossche](https://www.linkedin.com/in/steve-vandenbossche)
 - **TryHackMe** [ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="TryHackMe Badge" />
-</p>
 
 ---
 
