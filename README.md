@@ -2,49 +2,54 @@
 
 ![Banner](https://www.ecomdesign.be/1635323645564.jpg)
 
-Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité passionné par la création d’expériences web interactives et la sécurisation des systèmes informatiques. Explorez mes projets ci-dessous, les technologies que j’utilise et mes avancées dans la cybersécurité !
+## 🚀 About
+
+Je suis **Steve Vandenbossche**, passionné par le **développement Web** et la **cybersécurité** offensive & défensive.  
+J’aime créer des expériences web intuitives tout en pensant à leur sécurité.  
+Toujours en quête de nouveaux défis techniques, je combine mes compétences full-stack avec une montée en puissance en **cybersécurité**.
 
 ---
 
-## 🛠️ Technologies Utilisées
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</div>
 
 ### 🖥️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</div>
 
-### ⚙️ Scripting / Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
+### ⚙️ Scripting & Automation
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+</div>
 
 ### 🔐 Cybersecurity Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-5A5A5A?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-005F87?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe" />
-  <img src="https://img.shields.io/badge/BurpSuite-FF3300?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-</p>
+<div align="left">
+  <img src="https://img.shields.io/badge/Nmap-5A5A5A?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-005F87?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/BurpSuite-FF3300?style=flat-square&logo=burpsuite&logoColor=white" />
+</div>
 
 ---
-## 🧠 Cybersecurity | TryHackMe
+
+## 🧠 TryHackMe Progress
 
 <p align="center">
   <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
@@ -52,7 +57,7 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
   </a>
 </p>
 
-- 🔐 **Profil** : [tryhackme.com/p/ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)
+- 🔐 Profil : [tryhackme.com/p/ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)  
 - 🧭 Entraînement quotidien en cybersécurité offensive/défensive
 - 🧪 Labs pratiques : reconnaissance, exploitation, forensic, réseau, etc.
 
@@ -64,34 +69,36 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 | **Cyber Security 101** | 31 March 2025 | Linux, Windows, AD, cryptography, defense & offense |
 | **Pre Security** | 16 February 2025 | Networking basics, common web attacks, intro to cyber sec |
 
+---
 
+## 🔐 Cybersecurity Projects @ Kamkar 4 (2025)
 
-## 🔐 Cybersecurity | Kamkar 4 @ BeCode 2025
-
-- [BeCode](https://github.com/ecomdesignbe/BXL-Kamkar4-2025) – Dépôt principal de la formation
-- [port-scanner](https://github.com/ecomdesignbe/port-scanner) – Scanner de ports en Python
-- [monitoring-101](https://github.com/ecomdesignbe/monitoring-101) – Toolkit de surveillance Linux (Bash)
-- [secure-network-design](https://github.com/ecomdesignbe/secure-network-design) – Design de réseau sécurisé
-
-## 🚀 Web development | Hopper 5 @ BeCode 2024
-
-- [BeCode](https://github.com/ecomdesignbe/BXL-Hopper-5) – Dépôt principal de la formation
-- [render-react-appwrite-recipe-full-stack](https://github.com/ecomdesignbe/render-react-appwrite-recipe-full-stack) – Full-stack Appwrite + React
-- [render-react-tailwind-multi-step-form](https://github.com/ecomdesignbe/render-react-tailwind-multi-step-form) – Formulaire multi-étapes React + Tailwind
-- [render-react-appwrite-blog-full-stack](https://github.com/ecomdesignbe/render-react-appwrite-blog-full-stack) – Blog complet avec Appwrite
-- [render-react-mini-social-media](https://github.com/ecomdesignbe/render-react-mini-social-media) – Mini réseau social
-- [render-JobApplyTracker-solo](https://github.com/ecomdesignbe/render-JobApplyTracker-solo) – Suivi des candidatures
-- [render-react-emoji](https://github.com/ecomdesignbe/render-react-emoji) – Application emoji avec React
-- [render-blog](https://github.com/ecomdesignbe/render-blog) – Blog statique React
-- [render-react-stopwatch](https://github.com/ecomdesignbe/render-react-stopwatch) – Chronomètre React
-- [render-todolist](https://github.com/ecomdesignbe/render-todolist) – To-Do List
-- [render-node-auth](https://github.com/ecomdesignbe/render-node-auth) – Authentification Node.js
-- [render-react-markdown-editor](https://github.com/ecomdesignbe/render-react-markdown-editor) – Éditeur Markdown
-- [beMovies](https://github.com/ecomdesignbe/beMovies) - Application cinéma
+- 🔗 [Kamkar 4 @ BeCode](https://github.com/ecomdesignbe/BXL-Kamkar4-2025) – Dépôt principal de la formation
+- 🛡️ [Port Scanner (Python)](https://github.com/ecomdesignbe/port-scanner) - Scanner de ports en Python
+- 📈 [Monitoring Toolkit (Bash)](https://github.com/ecomdesignbe/monitoring-101)  – Toolkit de surveillance Linux (Bash)
+- 🧩 [Secure Network Design](https://github.com/ecomdesignbe/secure-network-design) – Design de réseau sécurisé
 
 ---
 
-## 📈 Statistiques GitHub
+## 💻 Dev Projects @ Hopper 5 (2024)
+
+- 🔗 [Hopper 5 @ BeCode](https://github.com/ecomdesignbe/BXL-Hopper-5) – Dépôt principal de la formation
+- 🧑‍🍳 [Recipe App - Full Stack](https://github.com/ecomdesignbe/render-react-appwrite-recipe-full-stack) – Full-stack Appwrite + React
+- 🧾 [Multi-Step Form (React/Tailwind)](https://github.com/ecomdesignbe/render-react-tailwind-multi-step-form) – Formulaire multi-étapes React + Tailwind
+- 📰 [Full Blog - Appwrite/React](https://github.com/ecomdesignbe/render-react-appwrite-blog-full-stack) – Blog complet avec Appwrite
+- 👥 [Mini Social Media App](https://github.com/ecomdesignbe/render-react-mini-social-media) – Mini réseau social
+- 📊 [Job Tracker (solo)](https://github.com/ecomdesignbe/render-JobApplyTracker-solo) – Suivi des candidatures
+- 😄 [Emoji App](https://github.com/ecomdesignbe/render-react-emoji) – Application emoji avec React
+- 📝 [Markdown Editor](https://github.com/ecomdesignbe/render-react-markdown-editor) – Éditeur Markdown
+- 🎬 [beMovies - Movie App](https://github.com/ecomdesignbe/beMovies) - Application cinéma
+- ⏱️ [Stopwatch (React)](https://github.com/ecomdesignbe/render-react-stopwatch)  – Chronomètre React
+- ✅ [To-Do List](https://github.com/ecomdesignbe/render-todolist)  – To-Do List
+- 🔐 [Node.js Auth](https://github.com/ecomdesignbe/render-node-auth) – Authentification Node.js
+- 📚 [Static Blog](https://github.com/ecomdesignbe/render-blog) – Blog statique React
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecomdesignbe&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
@@ -99,14 +106,36 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 
-Vous souhaitez collaborer ? Discutons !  
-- **Email**: [steve@ecomdesign.be](mailto:steve@ecomdesign.be)  
-- **Website**: [ecomdesign.be](https://www.ecomdesign.be)  
-- **LinkedIn**: [steve-vandenbossche](https://www.linkedin.com/in/steve-vandenbossche)
-- **TryHackMe** [ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)
+Envie de collaborer ? Discutons !
+
+- 📧 [steve@ecomdesign.be](mailto:steve@ecomdesign.be)  
+- 🌐 [www.ecomdesign.be](https://www.ecomdesign.be)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/steve-vandenbossche)  
+- 🧠 [TryHackMe](https://tryhackme.com/p/ecomdesign.be)
 
 ---
 
-Merci pour votre visite et n'hésitez pas à explorer mes projets ! 😊
+*Merci d’avoir visité mon profil — n’hésitez pas à explorer mes projets ou à me contacter pour toute collaboration ! 😊*
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ecomdesignbe&theme=algolia&margin-w=10&row=1" alt="Trophies" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecomdesignbe&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ecomdesignbe&style=flat-square&color=blue" alt="visitors" />
+</p>
+
