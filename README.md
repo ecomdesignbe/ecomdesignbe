@@ -73,7 +73,7 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 ## 📈 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecomdesignbe&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecomdesignbe&layout=full&theme=radical" alt="Top Langs" />
 </p>
 
 
