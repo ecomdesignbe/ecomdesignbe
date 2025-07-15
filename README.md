@@ -9,7 +9,7 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 ## 🛠️ Technologies Utilisées
 
 ### 🌐 Frontend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -19,7 +19,7 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 </p>
 
 ### 🖥️ Backend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -28,14 +28,14 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 </p>
 
 ### ⚙️ Scripting / Automation
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 ### 🔐 Cybersecurity Tools
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Nmap-5A5A5A?style=for-the-badge&logo=linux&logoColor=white" alt="Nmap" />
   <img src="https://img.shields.io/badge/Metasploit-005F87?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
@@ -84,10 +84,9 @@ Vous souhaitez collaborer ? Discutons !
 - **Email**: [steve@ecomdesign.be](mailto:steve@ecomdesign.be)  
 - **Website**: [ecomdesign.be](https://www.ecomdesign.be)  
 - **LinkedIn**: [steve-vandenbossche](https://www.linkedin.com/in/steve-vandenbossche)
+- **TryHackMe** [ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)
 
-📎 [TryHackMe Profil](https://tryhackme.com/p/ecomdesign.be)
-
-<p align="center">
+<p align="left">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="TryHackMe Badge" />
 </p>
 
