@@ -48,7 +48,7 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 
 <p align="center">
   <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="TryHackMe Badge" />
   </a>
 </p>
 
