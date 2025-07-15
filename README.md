@@ -74,12 +74,9 @@ Je suis **Steve Vandenbossche**, un développeur et apprenant en cybersécurité
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecomdesignbe&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ecomdesignbe&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ecomdesignbe&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ---
 
@@ -91,7 +88,7 @@ Vous souhaitez collaborer ? Discutons !
 - **LinkedIn**: [steve-vandenbossche](https://www.linkedin.com/in/steve-vandenbossche)
 - **TryHackMe** [ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)
 
-<p align="left">
+<p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="TryHackMe Badge" />
 </p>
 
