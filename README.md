@@ -53,7 +53,7 @@ Toujours en quête de nouveaux défis techniques, je combine mes compétences fu
 
 <p align="center">
   <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="ecomdesign.be" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png?v=1" alt="ecomdesign.be" />
   </a>
 </p>
 
@@ -63,12 +63,12 @@ Toujours en quête de nouveaux défis techniques, je combine mes compétences fu
 
 | 📜 Certification | 🗓️ Date | 📘 Description |
 |------------------|---------|----------------|
-| **Red Teaming** | 3 August 2025 | Adversary simulation, post-exploitation, evasion, C2 frameworks |
-| **Web Application Pentesting** | 3 July 2025 | Common web vulns, auth, client/server exploits, remediation |
-| **Jr Penetration Tester** | 3 June 2025 | Pentesting methods, enumeration, tools, reporting |
-| **SOC Level 1 Analyst** | 4 May 2025 | Threat monitoring, SIEM, forensics, incident response |
-| **Cyber Security 101** | 31 March 2025 | Linux, Windows, AD, cryptography, defense & offense |
-| **Pre Security** | 16 February 2025 | Networking basics, common web attacks, intro to cyber sec |
+| **Red Teaming** | 3 Août 2025 | Simulation d'adversaire, post-exploitation, évasion, frameworks de C2 |
+| **Web Application Pentesting** | 3 Juillet 2025 | Vulnérabilités web courantes, authentification, exploits client/serveur, remédiation |
+| **Jr Penetration Tester** | 3 Juin 2025 | Méthodes de pentest, énumération, outils, rédaction de rapports |
+| **SOC Level 1 Analyst** | 4 Mai 2025 | Surveillance des menaces, SIEM, forensic, réponse aux incidents |
+| **Cyber Security 101** | 31 Mars 2025 | Linux, Windows, Active Directory, cryptographie, défense & attaque |
+| **Pre Security** | 16 Février 2025 | Bases du réseau, attaques web courantes, introduction à la cybersécurité |
 
 ---
 
