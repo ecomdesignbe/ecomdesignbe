@@ -53,7 +53,7 @@ Toujours en quête de nouveaux défis techniques, je combine mes compétences fu
 
 <p align="center">
   <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png" alt="ecomdesign.be" />
   </a>
 </p>
 
