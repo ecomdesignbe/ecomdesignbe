@@ -63,6 +63,7 @@ Toujours en quête de nouveaux défis techniques, je combine mes compétences fu
 
 | 📜 Certification | 🗓️ Date | 📘 Description |
 |------------------|---------|----------------|
+| **Red Teaming** | 3 August 2025 | Adversary simulation, post-exploitation, evasion, C2 frameworks |
 | **Web Application Pentesting** | 3 July 2025 | Common web vulns, auth, client/server exploits, remediation |
 | **Jr Penetration Tester** | 3 June 2025 | Pentesting methods, enumeration, tools, reporting |
 | **SOC Level 1 Analyst** | 4 May 2025 | Threat monitoring, SIEM, forensics, incident response |
