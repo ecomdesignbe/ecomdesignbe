@@ -4,9 +4,31 @@
 
 ## 🚀 About
 
-Je suis **Steve Vandenbossche**, passionné par le **développement Web** et la **cybersécurité** offensive & défensive.  
-J’aime créer des expériences web intuitives tout en pensant à leur sécurité.  
-Toujours en quête de nouveaux défis techniques, je combine mes compétences full-stack avec une montée en puissance en **cybersécurité**.
+🔹 **Développeur web full stack, technicien IT et apprenant en cybersécurité offensive**  
+Passionné et autodidacte, je me spécialise depuis **janvier 2025** dans le **pentesting**, la **recherche de vulnérabilités (bug bounty)**, la **sécurité réseau** et le **social engineering**.  
+
+---
+
+### 🎯 Objectifs
+- Identifier et exploiter éthiquement des failles de sécurité (**web, réseau, systèmes**).  
+- Participer à des programmes de **bug bounty** (TryHackMe, Hacker101, VulnHub, HTB) et tester des environnements réels.  
+- Sensibiliser les équipes aux menaces (**phishing, OSINT, attaques humaines**).  
+
+Contribuer à des projets ou missions en **cybersécurité offensive** (pentest, red team, audit).  
+
+---
+
+### 💡 Atout majeur
+Mon background en **développement web & support IT** me donne un avantage unique :  
+je comprends les systèmes que je teste de l’intérieur, ce qui me permet de penser à la fois comme un **dev**, un **admin** et un **attaquant**.  
+
+---
+
+### 🌍 Présence en ligne
+- 🌐 **Site** : [ecomdesign.be](https://ecomdesign.be)  
+- 🐙 **GitHub/Twitter** : [@ecomdesignbe](https://github.com/ecomdesignbe)  
+- 🎓 **TryHackMe** : [ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)  
+
 
 ---
 
