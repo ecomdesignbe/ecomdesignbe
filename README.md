@@ -75,7 +75,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 <p align="center">
   <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png?v=1" alt="ecomdesign.be" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png?v=2" alt="ecomdesign.be" />
   </a>
 </p>
 
@@ -85,6 +85,10 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 | 📜 Certification | 🗓️ Date | 📘 Description |
 |------------------|---------|----------------|
+| **CompTIA Pentest+** | 4 Octobre 2025 | Exercices pratiques alignés sur les objectifs de l'examen Pentest+, préparation aux PBQ, compétences pratiques en pentesting |
+| **Advanced Endpoint Investigations** | 3 Octobre 2025 | Investigation sur Windows, Linux, macOS et mobile, analyse mémoire & disque, forensic sur MBR/GPT/FAT32/NTFS/EXT, outils Volatility, KAPE, SleuthKit, ALEAPP |
+| **SOC Level 2 Analyst** | 14 Septembre 2025 | Opérations de sécurité, réponse aux incidents, analyse de malware, threat hunting et threat emulation |
+| **DevSecOps** | 2 Septembre 2025 | Sécurisation des pipelines CI/CD, IaC, containerisation, application des frameworks DevSecOps |
 | **Red Teaming** | 3 Août 2025 | Simulation d'adversaire, post-exploitation, évasion, frameworks de C2 |
 | **Web Application Pentesting** | 3 Juillet 2025 | Vulnérabilités web courantes, authentification, exploits client/serveur, remédiation |
 | **Jr Penetration Tester** | 3 Juin 2025 | Méthodes de pentest, énumération, outils, rédaction de rapports |
