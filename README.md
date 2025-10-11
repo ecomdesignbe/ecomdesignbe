@@ -104,7 +104,8 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 - 🛡️ [Port Scanner (Python)](https://github.com/ecomdesignbe/port-scanner) - Scanner de ports en Python
 - 📈 [Monitoring Toolkit (Bash)](https://github.com/ecomdesignbe/monitoring-101)  – Toolkit de surveillance Linux (Bash)
 - 🧩 [Secure Network Design](https://github.com/ecomdesignbe/secure-network-design) – Design de réseau sécurisé
-
+- 🚀 [The Kamkar Pentest Team Project One](https://github.com/ecomdesignbe/the-kamkar-pentest-team-project-one) – Projet d’équipe Pentest collaboratif  
+- 🎯 [The Kamkar Challenge](https://github.com/ecomdesignbe/the-kamkar-challenge) – Défis techniques et CTFs en cybersécurité  
 ---
 
 ## 💻 Dev Projects @ Hopper 5 (2024)
