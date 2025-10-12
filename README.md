@@ -32,7 +32,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### 🌐 Frontend
 <div align="left">
@@ -44,6 +44,8 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 </div>
 
+---
+
 ### 🖥️ Backend
 <div align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -51,22 +53,74 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </div>
+
+---
 
 ### ⚙️ Scripting & Automation
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-000000?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sécurité_Applicative-003366?style=flat-square&logo=owasp&logoColor=white" />
 </div>
 
-### 🔐 Cybersecurity Tools
+---
+
+### 💥 Offensive Security
 <div align="left">
   <img src="https://img.shields.io/badge/Nmap-5A5A5A?style=flat-square&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-005F87?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF3300?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-0D5F87?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-800000?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hashcat-808080?style=flat-square&logo=hashnode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gobuster-CC0000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLi-006699?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/XSS-FF9900?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/OSINT-003366?style=flat-square&logo=matrix&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" />
-  <img src="https://img.shields.io/badge/BurpSuite-FF3300?style=flat-square&logo=burpsuite&logoColor=white" />
+</div>
+
+---
+
+### 🛡️ Defensive Security
+<div align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square&logo=suricata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zeek-111111?style=flat-square&logo=zeek&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIEM_(Splunk/Wazuh)-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Hardening-333333?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/UFW-009900?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fail2Ban-000000?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSH_Security-1E90FF?style=flat-square&logo=openssh&logoColor=white" />
+</div>
+
+---
+
+### 🌐 Réseaux & Systèmes
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux_(Kali,Parrot,Ubuntu)-1793D1?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server_(AD,DS,DNS,DHCP)-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPNsense/PFSense-FF6C37?style=flat-square&logo=freebsd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLAN-FFB000?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VPN-2E8B57?style=flat-square&logo=openvpn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</div>
+
+---
+
+### 🧩 Outils & Méthodologies
+<div align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-00A4CC?style=flat-square&logo=parrotsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Lab-222222?style=flat-square&logo=linuxcontainers&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat-square&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Kill_Chain-8A2BE2?style=flat-square&logo=cyberdefense&logoColor=white" />
 </div>
 
 ---
