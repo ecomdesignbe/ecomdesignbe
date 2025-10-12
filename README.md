@@ -2,7 +2,7 @@
 
 ![Banner](https://www.ecomdesign.be/1635323645564.jpg)
 
-## 🚀 About
+## 🚀 A propos
 
 🔹 **Développeur web full stack, technicien IT et apprenant en cybersécurité offensive**  
 Passionné et autodidacte, je me spécialise depuis **janvier 2025** dans le **pentesting**, la **recherche de vulnérabilités (bug bounty)**, la **sécurité réseau** et le **social engineering**.  
@@ -140,7 +140,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 ---
 
-## 🧠 TryHackMe Progress
+## 🧠 Progression TryHackMe 
 
 <p align="center">
   <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
@@ -167,7 +167,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 ---
 
-## 🔐 Cybersecurity Projects @ Kamkar 4 (2025)
+## 🔐 Projets Cybersecurity  @ Kamkar 4 (2025)
 
 - 🔗 [Kamkar 4 @ BeCode](https://github.com/ecomdesignbe/BXL-Kamkar4-2025) – Dépôt principal de la formation
 - 🛡️ [Port Scanner (Python)](https://github.com/ecomdesignbe/port-scanner) - Scanner de ports en Python
@@ -177,7 +177,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 - 🎯 [The Kamkar Challenge](https://github.com/ecomdesignbe/the-kamkar-challenge) – Défis techniques et CTFs en cybersécurité  
 ---
 
-## 💻 Dev Projects @ Hopper 5 (2024)
+## 💻 Projets Dev @ Hopper 5 (2024)
 
 - 🔗 [Hopper 5 @ BeCode](https://github.com/ecomdesignbe/BXL-Hopper-5) – Dépôt principal de la formation
 - 🧑‍🍳 [Recipe App - Full Stack](https://github.com/ecomdesignbe/render-react-appwrite-recipe-full-stack) – Full-stack Appwrite + React
@@ -195,7 +195,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats GitHub 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecomdesignbe&layout=compact&langs_count=8&theme=radical" alt="Top Langs" />
@@ -218,7 +218,7 @@ Envie de collaborer ? Discutons !
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophée GitHub 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ecomdesignbe&theme=algolia&margin-w=10&row=1" alt="Trophies" />
