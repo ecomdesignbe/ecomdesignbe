@@ -58,6 +58,21 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 ---
 
+### 🎨 CMS, Design & SEO
+<div align="left">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO/SEA-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+</div>
+
+---
+
 ### ⚙️ Scripting & Automation
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
