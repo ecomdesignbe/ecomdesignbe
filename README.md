@@ -27,7 +27,8 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 ### 🌍 Présence en ligne
 - 🌐 **Site** : [ecomdesign.be](https://ecomdesign.be)  
-- 🐙 **GitHub/Twitter** : [@ecomdesignbe](https://github.com/ecomdesignbe)  
+- 💼 **LinkedIn** : [Steve Vandenbossche](https://www.linkedin.com/in/steve-vandenbossche/)  
+- 🐙 **GitHub / Twitter** : [@ecomdesignbe](https://github.com/ecomdesignbe)  
 - 🎓 **TryHackMe** : [ecomdesign.be](https://tryhackme.com/p/ecomdesign.be)  
 
 
