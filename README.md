@@ -158,7 +158,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 | 📜 Certification | 🗓️ Date | 📘 Description |
 |------------------|---------|----------------|
-| **CTI - CISA JCDC Triage Fusion and Analysis (Apprentice)** | 21 octobre 2025 | Triage, fusion et analyse d'informations de cyber threat intelligence. (Durée du cours : 28h 44min) |
+| **CTI - CISA JCDC Triage Fusion and Analysis (Apprentice)** | 21 octobre 2025 | Triage, fusion et analyse d'informations de cyber threat intelligence. |
 | **Offensive Pentesting** | 13 octobre 2025 | Préparation au pentesting en conditions réelles : outils standard, scénarios réalistes, exercices pratiques. |
 | **CompTIA Pentest+** | 4 octobre 2025 | Exercices pratiques alignés sur les objectifs de l'examen Pentest+, préparation aux PBQ, compétences pratiques en pentesting. |
 | **Advanced Endpoint Investigations** | 3 octobre 2025 | Investigation sur Windows, Linux, macOS et mobile, analyse mémoire & disque, forensic sur MBR/GPT/FAT32/NTFS/EXT, outils Volatility, KAPE, SleuthKit, ALEAPP. |
