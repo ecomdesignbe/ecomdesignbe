@@ -146,7 +146,7 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 
 <p align="center">
   <a href="https://tryhackme.com/p/ecomdesign.be" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png?v=2" alt="ecomdesign.be" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ecomdesign.be.png?v=3" alt="ecomdesign.be" />
   </a>
 </p>
 
@@ -154,18 +154,61 @@ je comprends les systèmes que je teste de l’intérieur, ce qui me permet de p
 - 🧭 Entraînement quotidien en cybersécurité offensive/défensive
 - 🧪 Labs pratiques : reconnaissance, exploitation, forensic, réseau, etc.
 
+## Tryhackme
+
 | 📜 Certification | 🗓️ Date | 📘 Description |
 |------------------|---------|----------------|
-| **CompTIA Pentest+** | 4 Octobre 2025 | Exercices pratiques alignés sur les objectifs de l'examen Pentest+, préparation aux PBQ, compétences pratiques en pentesting |
-| **Advanced Endpoint Investigations** | 3 Octobre 2025 | Investigation sur Windows, Linux, macOS et mobile, analyse mémoire & disque, forensic sur MBR/GPT/FAT32/NTFS/EXT, outils Volatility, KAPE, SleuthKit, ALEAPP |
-| **SOC Level 2 Analyst** | 14 Septembre 2025 | Opérations de sécurité, réponse aux incidents, analyse de malware, threat hunting et threat emulation |
-| **DevSecOps** | 2 Septembre 2025 | Sécurisation des pipelines CI/CD, IaC, containerisation, application des frameworks DevSecOps |
-| **Red Teaming** | 3 Août 2025 | Simulation d'adversaire, post-exploitation, évasion, frameworks de C2 |
-| **Web Application Pentesting** | 3 Juillet 2025 | Vulnérabilités web courantes, authentification, exploits client/serveur, remédiation |
-| **Jr Penetration Tester** | 3 Juin 2025 | Méthodes de pentest, énumération, outils, rédaction de rapports |
-| **SOC Level 1 Analyst** | 4 Mai 2025 | Surveillance des menaces, SIEM, forensic, réponse aux incidents |
-| **Cyber Security 101** | 31 Mars 2025 | Linux, Windows, Active Directory, cryptographie, défense & attaque |
-| **Pre Security** | 16 Février 2025 | Bases du réseau, attaques web courantes, introduction à la cybersécurité |
+| **CTI - CISA JCDC Triage Fusion and Analysis (Apprentice)** | 21 octobre 2025 | Triage, fusion et analyse d'informations de cyber threat intelligence. (Durée du cours : 28h 44min) |
+| **Offensive Pentesting** | 13 octobre 2025 | Préparation au pentesting en conditions réelles : outils standard, scénarios réalistes, exercices pratiques. |
+| **CompTIA Pentest+** | 4 octobre 2025 | Exercices pratiques alignés sur les objectifs de l'examen Pentest+, préparation aux PBQ, compétences pratiques en pentesting. |
+| **Advanced Endpoint Investigations** | 3 octobre 2025 | Investigation sur Windows, Linux, macOS et mobile, analyse mémoire & disque, forensic sur MBR/GPT/FAT32/NTFS/EXT, outils Volatility, KAPE, SleuthKit, ALEAPP. |
+| **SOC Level 2 Analyst** | 14 septembre 2025 | Opérations de sécurité, réponse aux incidents, analyse de malware, threat hunting et threat emulation. |
+| **DevSecOps** | 2 septembre 2025 | Sécurisation des pipelines CI/CD, IaC, containerisation, application des frameworks DevSecOps. |
+| **Security Engineer** | 26 août 2025 | Ingénierie de sécurité réseau, systèmes et logiciel, gestion des risques et réponse aux incidents. |
+| **Red Teaming** | 3 août 2025 | Simulation d'adversaire, techniques d'accès initial, post-exploitation, évasion et exploitation AD. |
+| **Web Application Pentesting** | 3 juillet 2025 | Vulnérabilités web courantes, authentification, exploits client/serveur, remédiation. |
+| **Jr Penetration Tester** | 3 juin 2025 | Méthodes de pentest, énumération, exploitation, reporting et exercices pratiques. |
+| **SOC Level 1 Analyst** | 4 mai 2025 | Surveillance des menaces, SIEM, forensic, réponse aux incidents. |
+| **Cyber Security 101** | 31 mars 2025 | Bases : Linux, Windows, Active Directory, cryptographie, défense & attaque. |
+| **Pre Security** | 16 février 2025 | Bases du réseau, attaques web courantes, introduction à la cybersécurité. |
+
+
+## Cisco
+
+| 📜 Certification | 🗓️ Date | 📘 Description |
+|------------------|---------|----------------|
+| **CCNA: Switching, Routing, and Wireless Essentials** | oct. 2025 | Concepts réseau fondamentaux : switching, routing et essentials wireless. |
+| **CCNA: Introduction to Networks** | août 2025 | Introduction aux réseaux et concepts fondamentaux Cisco. |
+| **Introduction to Cybersecurity** | août 2025 | Introduction générale à la cybersécurité. |
+
+---
+
+## Fortinet
+
+| 📜 Certification | 🗓️ Date | 📘 Description |
+|------------------|---------|----------------|
+| **Fortinet Certified Fundamentals Cybersecurity** | sept. 2025 | Fondamentaux de la cybersécurité avec Fortinet. (certificat valide jusqu'en sept. 2027) |
+| **Introduction to the Threat Landscape 3.0** | sept. 2025 | Connaissance de l’environnement des menaces actuelles. |
+| **Technical Introduction to Cybersecurity 2.0** | sept. 2025 | Introduction technique à la cybersécurité. |
+| **Getting Started in Cybersecurity 3.0** | août 2025 | Démarrage et introduction à la cybersécurité. |
+
+---
+
+## Microsoft
+
+| 📜 Certification / Rang | 🗓️ Date | 📘 Description |
+|------------------------|---------|----------------|
+| **Kusto Detective Gold Star!** | août 2025 | Détection et analyse avancée via Kusto — niveau Gold Star. |
+| **New Rank: Senior Detective Agent** | août 2025 | Rang Senior Detective Agent. |
+| **New Rank: Senior Kusto Detective II** | août 2025 | Rang Senior Detective II. |
+| **New Rank: Senior Kusto Detective** | août 2025 | Rang Senior Kusto Detective. |
+| **New rank: Special Detective Agent II** | août 2025 | Rang Special Detective Agent II. |
+| **New rank: Special Detective Agent** | août 2025 | Rang Special Detective Agent. |
+| **New Rank: Kusto Detective II** | août 2025 | Rang Kusto Detective niveau II. |
+| **New Rank: Kusto Detective III** | août 2025 | Rang Kusto Detective niveau III. |
+| **New Rank: Kusto Detective I** | août 2025 | Rang Kusto Detective niveau I. |
+| **New Kusto Detective!** | août 2025 | Reconnaissance de compétences en investigation Kusto. |
+| **New rank: Principal Detective** | août 2025 | Rang Principal Detective. |
 
 ---
 
